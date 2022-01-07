@@ -1,6 +1,6 @@
 # Multimodal Movie Genre Classification (Text+Image): Prediction on New Data
 
-This notebook shows how to use an already pre-trained model to make predictions on new data. 
+This notebook shows how to use an already pre-trained model (using Keras) to make predictions on new data. 
 
 ### Required files
 To run this notebook in Google Colab, you need to download the followings and adjust the paths inside the notebook:
