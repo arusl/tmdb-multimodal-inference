@@ -27,3 +27,6 @@ Basically, the model receives inputs from two modalities, image (movie poster) a
 <img src="https://miro.medium.com/max/4800/1*b4MoSHYfA9U8nPFTXAb4xg.png" width="400"></img>
 
 Illustration from [Source](https://towardsdatascience.com/multimodal-deep-learning-to-predict-movie-genres-e6855f814a8a)
+
+### Notes
+Detailed explanations can be found inside the notebook.
